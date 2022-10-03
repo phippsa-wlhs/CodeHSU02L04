@@ -7,6 +7,7 @@ public class RectangleTester
          * has a width and a height. But the specific instances
          * have their own dimensions.
          */
+        //this is a test of GitHub
         
         //Make a rectangle called r1 with a width of 10 and height of 2 then print it
         
